@@ -26,5 +26,4 @@ configure("auto");
 //   configure("automatic");
 //   Argument of type '"automatic"' is not assignable to parameter of type 'Options | "auto"'.
 
-
 export { }
